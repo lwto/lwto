@@ -35,7 +35,7 @@
  </div>
  <br>
  <div>
-   <h2 height="30">
+   <h2 align="center">
       Languages & Tools 
       <img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" width="50" >
    </h2>
@@ -61,8 +61,26 @@
  </div>
  <br>
  <div>
-   <h2>
+   <h2 align="center">
       Contact me! <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" width="50">
    </h2>
- 
+   <img src="https://i.pinimg.com/originals/80/cc/cb/80cccb763be19ce7a405fa44c01526e5.gif" align="right" width="373.5px" height="208.5px">
+<br>
+   <p align="center">~ Here are my socials ~</p>
+   <p align="center"><a href="https://www.linkedin.com/in/lin-wathan-oo-812573221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      <a href="https://discord.me/Wathan#2113" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="mailto:linwatha.0023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p> 
+</div>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<p align="center" >  
+  <a href="https://github.com/lwto/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=lwto&&show_icons=true&theme=dracula"/>
+  </a>
+  </p>
 
