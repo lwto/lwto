@@ -40,8 +40,7 @@
       <img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" width="50" >
    </h2>
    <br>
-   ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
-    ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
+  
     ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
     ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
     ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
