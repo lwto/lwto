@@ -40,6 +40,9 @@
       <img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" width="50" >
    </h2>
    <br>
+   ![Html5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+   ![Css](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
+   ![Sass](https://img.shields.io/badge/Sass-orange?style=flat-square&logo=Sass)
    
    ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
    ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
