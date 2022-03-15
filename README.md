@@ -64,7 +64,7 @@
    <h2 align="center">
       Contact me! <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" width="50">
    </h2>
-   <img src="https://i.pinimg.com/originals/80/cc/cb/80cccb763be19ce7a405fa44c01526e5.gif" align="right" width="373.5px" height="208.5px">
+   <img src="https://i.pinimg.com/originals/80/cc/cb/80cccb763be19ce7a405fa44c01526e5.gif" align="right" width="373.5px" height="238.5px">
 <br>
    <p align="center">~ Here are my socials ~</p>
    <p align="center"><a href="https://www.linkedin.com/in/lin-wathan-oo-812573221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
