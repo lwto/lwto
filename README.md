@@ -41,8 +41,11 @@
    </h2>
    <br>
    
+   ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
+   ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
    ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
    ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+   ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
    
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
