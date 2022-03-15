@@ -4,7 +4,7 @@
 </h1>
 <br>
 <div align="center">
-   <img src="https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" width="600" height="320" object-fit="cover" >
+   <img src="https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" width="700" height="350" object-fit="cover" >
 </div>
 <br>
 
@@ -55,6 +55,7 @@
       <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" height="30" />     
       <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30" />       
       <img style="margin: 10px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" />
+      <img style="margin: 10px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" height="30" />
       <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="30" />
       <img style="margin: 10px" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" height="30" />
  </div>
