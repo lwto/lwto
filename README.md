@@ -4,7 +4,7 @@
 </h1>
 <br>
 <div align="center">
-   <img src="https://gfycat.com/optimisticsnivelingamericanshorthair" width="700" height="300" object-fit="cover" >
+   <img src="https://thumbs.gfycat.com/OptimisticSnivelingAmericanshorthair.webp" width="700" height="300" object-fit="cover" >
 </div>
 <br>
 
