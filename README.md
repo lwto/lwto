@@ -35,9 +35,12 @@
  </div>
  <br>
  <div>
-   <h2>
-      𓄼  ⋆  𓂃  Languages & Tools 𓂃  ⋆   𓄹 
+  <div style="display:flex; align-items: center; justify-content: center;">
+   <h2 align-items="center" justify-self="center">
+     Languages & Tools  
    </h2>
+   <img src="https://media.giphy.com/media/eDXdPWRPMKeo1VNYU1/giphy.gif" width="60" >
+ </div>
    <br>
    
    ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -50,4 +53,5 @@
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
    
  </div>
+ 
 
