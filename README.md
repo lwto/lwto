@@ -1,4 +1,5 @@
 ### Hi there.. I'm Wathan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 <img src="https://media.giphy.com/media/QUpRFjFrj1EbK/giphy.gif" width="100%" height="70%">
 
