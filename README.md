@@ -35,11 +35,17 @@
  <br>
  <div>
    <h2>
-      𓄼  ⋆  ᤳ  𓂃  Languages & Tools 𓂃  ᤳ  ⋆   𓄹 
+      𓄼  ⋆  𓂃  Languages & Tools 𓂃  ⋆   𓄹 
    </h2>
    <br>
-   [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
+   
+   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+   
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
    
  </div>
 
