@@ -36,7 +36,8 @@
  <br>
  <div>
    <h2 height="30">
-      Languages & Tools <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" >
+      Languages & Tools 
+      <img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" width="50" >
    </h2>
    <br>
    
