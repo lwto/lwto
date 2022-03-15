@@ -36,7 +36,7 @@
  <br>
  <div>
 
-   <h2>
+   <h2 height="30">
       Languages & Tools <img src="https://media.giphy.com/media/eDXdPWRPMKeo1VNYU1/giphy.gif" width="60" >
    </h2>
   
