@@ -13,7 +13,8 @@
       ♡  .  ⋆  ˚  About Me ˚ ⋆  .  ♡
    </h2>
    <br>
-   <img align='right' src="https://media.giphy.com/media/PUyO4KmKWX5D2MzH3w/giphy.gif" width="230" >
+   <img align='right' src="https://media.giphy.com/media/PUyO4KmKWX5D2MzH3w/giphy.gif" width="200" >
+   <br>
    <li>
       <b>Name:</b> Wathan</li>
    <li>
