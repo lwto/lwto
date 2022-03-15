@@ -36,8 +36,8 @@
  <br>
  <div>
 
-   <h2 style="display:flex; align-items: center; justify-content: center;">
-      <p>Languages & Tools </p> <img src="https://media.giphy.com/media/eDXdPWRPMKeo1VNYU1/giphy.gif" width="60" >
+   <h2>
+      Languages & Tools <img src="https://media.giphy.com/media/eDXdPWRPMKeo1VNYU1/giphy.gif" width="60" >
    </h2>
   
 
