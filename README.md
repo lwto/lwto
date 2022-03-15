@@ -40,21 +40,8 @@
       <img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" width="50" >
    </h2>
    <br>
-   ![Html5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-   ![Css](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
-   ![Sass](https://img.shields.io/badge/Sass-orange?style=flat-square&logo=Sass)
+   ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    
-   ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
-   ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
-   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-   ![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-   
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
    
  </div>
  <br>
