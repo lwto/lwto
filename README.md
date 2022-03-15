@@ -4,7 +4,7 @@
 </h1>
 <br>
 <div align="center">
-   <img src="https://64.media.tumblr.com/6f3e65d355f7e1bb162a29a571eb29a7/eb553cdaa152ca78-c2/s540x810/815786bc8e6fda8c74d44babe091c6c2feec8901.gif" width="600" height="400" >
+   <img src="https://64.media.tumblr.com/eecc152aba391e5eadd6233ea98245aa/tumblr_pa6cdfprbP1x8dkuto1_500.giff" width="700" height="400" >
 </div>
 <br>
 
