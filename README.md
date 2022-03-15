@@ -4,7 +4,7 @@
 </h1>
 <br>
 <div align="center">
-   <img src="https://64.media.tumblr.com/eecc152aba391e5eadd6233ea98245aa/tumblr_pa6cdfprbP1x8dkuto1_500.gif" width="700" height="300" object-fit="cover" >
+   <img src="https://gfycat.com/optimisticsnivelingamericanshorthair" width="700" height="300" object-fit="cover" >
 </div>
 <br>
 
