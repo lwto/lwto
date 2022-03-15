@@ -35,12 +35,9 @@
  </div>
  <br>
  <div>
-
    <h2 height="30">
-      Languages & Tools <img src="https://media.giphy.com/media/eDXdPWRPMKeo1VNYU1/giphy.gif" width="60" >
+      Languages & Tools <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" >
    </h2>
-  
-
    <br>
    
    ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -53,5 +50,10 @@
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
    
  </div>
+ <br>
+ <div>
+   <h2>
+      Contact me! <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" width="50">
+   </h2>
  
 
