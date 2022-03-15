@@ -40,7 +40,7 @@
       <img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" width="50" >
    </h2>
    <br>
-   ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    
    
  </div>
