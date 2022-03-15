@@ -9,15 +9,15 @@
 <br>
 
 <div>
-   <h1 align="center">
+   <h2 align="center">
       ♡  .  ⋆  ˚  About Me ˚ ⋆  .  ♡
-   </h1>
+   </h2>
    <br>
    <img align='right' src="https://media.giphy.com/media/PUyO4KmKWX5D2MzH3w/giphy.gif" width="230" >
    <li>
       <b>Name:</b> Wathan</li>
    <li>
-      <b>Loves:</b> Cakes, milk tea and games maybe -///-
+      <b>Loves:</b> Cakes, milktea and games maybe -///-
    </li>
    <li>
       <b>Gender:</b> she/her/Female
@@ -31,5 +31,15 @@
    <li>
       <b>Fun fact:</b> I learn things pretty fast
    </li>
+ </div>
+ <br>
+ <div>
+   <h2>
+      𓄼  ⋆  ᤳ  𓂃  Languages & Tools 𓂃  ᤳ  ⋆   𓄹 
+   </h2>
+   <br>
+   [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+   
  </div>
 
