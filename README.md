@@ -12,6 +12,9 @@
    <h2 align="center">
       ♡  .  ⋆  ˚  About Me ˚ ⋆  .  ♡
    </h2>
+   <p align="center"A technoholic  from Myanmar.hmu I make pretty awesome websites.Pm for remote collaboration<p>
+   <p align="center" >wathan@smdwebtech.com<p>
+
    <br>
    <img align='right' src="https://media.giphy.com/media/PUyO4KmKWX5D2MzH3w/giphy.gif" width="200" >
    <br>
