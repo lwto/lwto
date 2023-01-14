@@ -1,7 +1,10 @@
-<h1 align="center">
-   Hi there.. I'm Wathan!
+<div align="center">
+   <h1>Hi there.. I'm Wathan!</h1>
+    <p align="center">A technoholic  from Myanmar.hmu I make pretty awesome websites.Pm for remote collaboration<p>
+   <p align="center" >wathan@smdwebtech.com<p>
+
    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h1>
+</div>
 <br>
 <div align="center">
    <img src="https://media.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" width="700" height="350" object-fit="cover" >
@@ -12,9 +15,7 @@
    <h2 align="center">
       ♡  .  ⋆  ˚  About Me ˚ ⋆  .  ♡
    </h2>
-   <p align="center"A technoholic  from Myanmar.hmu I make pretty awesome websites.Pm for remote collaboration<p>
-   <p align="center" >wathan@smdwebtech.com<p>
-
+  
    <br>
    <img align='right' src="https://media.giphy.com/media/PUyO4KmKWX5D2MzH3w/giphy.gif" width="200" >
    <br>
