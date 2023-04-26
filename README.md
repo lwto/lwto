@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there.. I'm Wathan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-    <p align="center">A technoholic  from Myanmar.I will make your impossible requests possible.Don't be shy hmu for remote collaboration.<p>
-    <p align="center" >wathan@smdwebtech.com<p> 
+    <p align="center">Love Java but SWING<p>
+    <p align="center" >Doing PHP for LIVING. Planning to learn flutter as a hobby. Feel free to join me. May be we can code together.<p> 
 </div>
 <br>
 <div align="center">
