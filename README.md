@@ -26,13 +26,13 @@
       <b>Gender:</b> she/her/Female
    </li>
    <li>
-      <b>Hobbies:</b> Tech Stuff, Graphic Design, Web Development
+      <b>Hobbies:</b> Tech Stuff, Ux Design, Web Development
    </li>
    <li>
-      <b>Currently working on:</b> Ecommerce App
+      <b>Currently working on:</b> Banking System
    </li>
    <li>
-      <b>Fun fact:</b> I learn things pretty fast
+      <b>Fun fact:</b> I love to crochcet while brainstorming
    </li>
  </div>
  <br>
@@ -69,10 +69,8 @@
    <br>
    <img src="https://c.tenor.com/zcaqzz-JWE8AAAAC/happy-anime.gif" align="right" width="358.5px" height="192.5px">
 
-   <br> <h4 align="center" style="padding-top:10"> ⋆ ~ Here are my socials ~ ⋆ </h4>
-   <p align="center"><a href="https://www.linkedin.com/in/lin-wathan-oo-812573221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://discordapp.com/users/joyy#2113/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="mailto:linwathanoo15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p> 
+  
+   
 </div>
 </br>
 </br>
