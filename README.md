@@ -33,7 +33,7 @@
    </li>
   
    <li>
-      <b>Good at:</b> Maths and Civil Engineer Things. Trust me I can build you a house as well as web app xD
+      <b>Good at:</b> Maths and Civil Engineer Things.<br> Trust me I can build you a house as well as a web app xD
    </li>
  </div>
  <br>
