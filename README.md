@@ -32,7 +32,7 @@
       <b>Currently working on:</b> Banking System
    </li>
    <li>
-      <b>Fun fact:</b> I will be a teacher if money doesn't matter.
+      <b>Fun fact:</b> I will be a structure engineer if I don't need to go on construction site.
    </li>
    <li>
       <b>Good at:</b> Maths and Civil Engineer Things. Trust me I can build you a house as well as web app xD
