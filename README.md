@@ -64,7 +64,7 @@
  <br>
  <div>
    <h2 align="center">
-      Contact me! <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" width="50">
+      Reach out to me! <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" width="50">
    </h2>
    <br>
    <img src="https://c.tenor.com/zcaqzz-JWE8AAAAC/happy-anime.gif" align="right" width="358.5px" height="192.5px">
@@ -72,9 +72,7 @@
   
    
 </div>
-</br>
-</br>
-</br>
+
 
 <p align="center" >  
   <a href="https://github.com/lwto/github-readme-stats"> 
