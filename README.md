@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there.. I'm Wathan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-    <p align="center">Love Java but SWING<p>
+    <p align="center">Love Java specially SWING<p>
     <p align="center" >Doing PHP for LIVING. Planning to learn flutter as a hobby. Feel free to join me. May be we can code together.<p> 
 </div>
 <br>
@@ -32,7 +32,7 @@
       <b>Currently working on:</b> Banking System
    </li>
    <li>
-      <b>Fun fact:</b> I love to crochcet while brainstorming
+      <b>Fun fact:</b> I will be a teacher if money doesn't matter.
    </li>
  </div>
  <br>
