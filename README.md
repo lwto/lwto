@@ -2,7 +2,7 @@
    <h1>Hi there.. I'm Wathan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
     <p align="center">Love Java specially SWING<p>
     <p align="center" >Doing PHP for LIVING. Design Websites for fun.<p> 
-   <p align="center" >Planning to learn flutter as a hobby. Feel free to join me. Nothing is better than coding together!!!<p> 
+   <p align="center" >Check out my gists<p> 
 </div>
 <br>
 <div align="center">
