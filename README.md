@@ -30,7 +30,7 @@
       <b>Hobbies:</b> Tech Stuff, Ux Design, Web Development
    </li>
    <li>
-      <b>Currently working on:</b> Banking System
+      <b>Currently working on:</b> POS project (PHP)
    </li>
   
    <li>
